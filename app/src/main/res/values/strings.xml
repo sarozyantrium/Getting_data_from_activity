@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormWithNormalToast</string>
+    <string-array name="cities">
+        <item>Select City</item>
+        <item>Kathmandu</item>
+        <item>Dharan</item>
+        <item>Bara</item>
+        <item>Rautahat</item>
+        <item>Pokhara</item>
+        <item>Dhulikhel</item>
+        <item>Lalitpur</item>
+        <item>Bhaktapur</item>
+    </string-array>
+</resources>
